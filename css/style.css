@@ -1,0 +1,123 @@
+.navigation {
+	display: flex;
+	width: 100%;
+	
+
+}
+.navlogo {
+	margin-left: 140px;
+	margin-top: 52px;
+
+
+}
+.nav {
+	display: flex;
+	margin-top: 73px;
+	margin-left: 400px;
+	
+}
+.nav-li {
+	margin-left: 53px;
+	font-size: 20px;
+	color: #707070;
+}
+.searchlogo {margin-left: 53px;}
+.bannerimg {
+	width: 1200px;
+	margin: 65px 130px;
+	display: block;
+}
+.fname,
+.email,
+.subject {
+	display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 280px;
+    font-size: 23px;
+    color: #2E2E2E;
+}
+.input {
+	outline: none;
+	width: 100%;
+	height: 70px;
+	margin: 12px 0 16px 0;
+	border-color: lightgrey;
+	border-width: 1px;
+	font-size: 23px;
+
+
+}
+textarea {
+	resize: none;
+	outline: none;
+	width: 100%;
+	height: 110px;
+	margin: 12px 0 16px 0;
+	border-color: lightgrey;
+	border-width: 1px;
+	font-size: 23px;
+}
+.submit {
+	border: none;
+	width: 152px;
+	height: 52px;
+	background-color: #2E2E2E;
+	font-size: 21px;
+	border-style: solid;
+	color: white;
+}
+.footer {
+	display: flex;
+	
+	background-color: #2E2E2E;
+	height: 207px;
+	width: 100%;
+	margin-top: 235px;
+	
+}
+
+.footerimg {
+	display: flex;
+	justify-content: flex-start;
+	margin-top: 55px;
+	margin-left: 135px;
+}
+.contact1 {
+	font-size: 20px;
+	color: #F2F2F2;
+}
+.contact2,
+.contact3 {
+	font-size: 13px;
+	color: #F2F2F2;
+}
+.contact {
+	margin-top: 65px;
+	margin-left: 200px;
+	flex-flow: column;
+	display: flex;
+}
+.adress1 {
+	font-size: 19px;
+	color: white;
+
+}
+.adress2 {
+	font-size: 13px;
+	color: white;
+}
+.adress {
+	display: flex;
+	flex-flow: column;
+	margin-top: 65px;
+	margin-left: 300px;
+}
+.insta {
+	margin-left: 34px;
+}
+.social {
+	display: flex;
+	flex-flow: row;
+	margin-left: 200px;
+}
